@@ -3,7 +3,7 @@ Transformer Training Script for Neural Machine Translation
 
 Author: Naresh AI Nexus
 Project: Transformer from Scratch for Language Translation  
-GitHub: https://github.com/nareshAiNexus/transformer-using-numpy
+GitHub: https://github.com/nareshAiNexus/transformer-from-scratch-pytorch
 
 This script handles the complete training pipeline for the Transformer model:
 - Dataset loading and preprocessing for parallel corpora
