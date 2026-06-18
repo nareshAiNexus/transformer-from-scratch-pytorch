@@ -1,7 +1,7 @@
 # Transformer Architecture for Language Translation from Scratch
 
-[![GitHub stars](https://img.shields.io/github/stars/nareshAiNexus/transformer-using-numpy.svg)](https://github.com/nareshAiNexus/transformer-using-numpy/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nareshAiNexus/transformer-using-numpy.svg)](https://github.com/nareshAiNexus/transformer-using-numpy/network)
+[![GitHub stars](https://img.shields.io/github/stars/nareshAiNexus/transformer-from-scratch-pytorch.svg)](https://github.com/nareshAiNexus/transformer-from-scratch-pytorch/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/nareshAiNexus/transformer-from-scratch-pytorch.svg)](https://github.com/nareshAiNexus/transformer-from-scratch-pytorch/network)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
 
@@ -50,8 +50,8 @@ This repository contains a from-scratch implementation of the Transformer model,
 
 ```bash
 # Clone the repository
-git clone https://github.com/nareshAiNexus/transformer-using-numpy.git
-cd transformer-using-numpy
+git clone https://github.com/nareshAiNexus/transformer-from-scratch-pytorch.git
+cd transformer-from-scratch-pytorch
 
 # Install dependencies
 pip install -r requirements.txt
