@@ -843,8 +843,8 @@ def greedy_decode(model, source, source_mask, tokenizer_src, tokenizer_tgt, max_
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/nareshAiNexus/transformer-using-numpy.git
-   cd transformer-using-numpy
+   git clone https://github.com/nareshAiNexus/transformer-from-scratch-pytorch.git
+   cd transformer-from-scratch-pytorch
    ```
 
 2. **Create a virtual environment:**
@@ -932,8 +932,8 @@ Contributions are welcome! Here's how you can help improve this transformer impl
 
 ```bash
 # Fork the repository and clone your fork
-git clone https://github.com/YOUR_USERNAME/transformer-using-numpy.git
-cd transformer-using-numpy
+git clone https://github.com/YOUR_USERNAME/transformer-from-scratch-pytorch.git
+cd transformer-from-scratch-pytorch
 
 # Create a new branch for your feature
 git checkout -b feature/your-feature-name
@@ -977,7 +977,7 @@ in the Software without restriction...
 
 **Naresh AI Nexus** - [@nareshAiNexus](https://github.com/nareshAiNexus)
 
-Project Link: [https://github.com/nareshAiNexus/transformer-using-numpy](https://github.com/nareshAiNexus/transformer-using-numpy)
+Project Link: [https://github.com/nareshAiNexus/transformer-from-scratch-pytorch](https://github.com/nareshAiNexus/transformer-from-scratch-pytorch)
 
 ---
 
